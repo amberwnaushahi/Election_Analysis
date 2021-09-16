@@ -34,7 +34,7 @@ The election audit result revealed the following:
 
 The script can be used to tabulate and analyze other election results as well by making small modifications to the code.
 * If we want to see the candidate who got the most votes in each county, we can modify the code by assigning a new variable such as winner_county and tabulating the result by each candidate name within the loop where county votes are being counted. 
-* If we have information regarding total registered voters and total votes that were cast, an analysis can be carried out to understand the voter turn out.
+* If we have information regarding total registered voters and total votes that were cast in each county, an analysis can be carried out to understand the voter turn out by editing the script
 
 
 
